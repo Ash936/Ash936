@@ -5,7 +5,7 @@ Backend Engineer with experience in Python, Django, C#, and ASP.NET.
 
 - 3+ years building web & enterprise applications
 - Strong in backend systems and databases
-- Interested in APIs, system design, and AI/ML integration
+- Interested in APIs, system design, DS and AI/ML integration
 
 ## 🛠 Tech Stack
 
